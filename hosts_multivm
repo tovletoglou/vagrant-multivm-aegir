@@ -1,0 +1,9 @@
+[vagrant]
+ansible.dev
+aegir.dev
+
+[ansible]
+ansible.dev
+
+[hostmaster]
+aegir.dev
